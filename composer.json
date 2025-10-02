@@ -1,9 +1,16 @@
 {
     "name": "welkervinicius/nova-jquery-mask",
-    "description": "A Laravel Nova field.",
+    "description": "An input mask field for Laravel Nova, based on the popular jQuery Mask Plugin, with shortcuts for CPF/CNPJ and Telephone.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "input-mask",
+        "field",
+        "jquery",
+        "mask",
+        "php",
+        "cpf",
+        "cnpj"
     ],
     "license": "MIT",
     "require": {
